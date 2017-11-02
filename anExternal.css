@@ -1,0 +1,26 @@
+#Arial{
+	font-family: Arial;
+	border-style: dotted;
+}
+#TimesNewRoman{
+	font-family: Times New Roman;
+	float: right;
+	border-style:solid;
+	border-radius: 10px;
+}
+img{
+	width: 50px;
+	height: 50px;
+	margin: 20px;
+}
+body{
+	background-color: yellow;
+}
+.image {
+    position:relative;
+    text-align:center;
+}
+.text {
+    position:relative;
+    top:30px;
+}
